@@ -3,5 +3,7 @@ Hi my name is Ravi Tapia. I am Computer Science major at UCSD looking to learn R
 
 ## Tutorial
 If this app looks familiar, its because it is from this tutorial haha
+
 https://www.youtube.com/watch?v=XuFDcZABiDQ&list=WL&index=1&t=189s
+
 I am using it as a way to learn!
